@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faFacebook, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import Image from '../assets/images/Mask group.png';
-
+//johi
 const Footer = () => {
   return (
     <div>
